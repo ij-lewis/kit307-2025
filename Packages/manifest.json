@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.spoiledcat.git": "1.0.44",
     "com.unity.collab-proxy": "2.8.2",
     "com.unity.feature.development": "1.0.2",
     "com.unity.ugui": "2.0.0",
@@ -37,14 +36,5 @@
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
   },
-  "scopedRegistries": [
-    {
-      "name": "spoiledcat",
-      "url": "https://registry.spoiledcat.com",
-      "scopes": [
-        "com.spoiledcat"
-      ],
-      "overrideBuiltIns": false
-    }
-  ]
+  "scopedRegistries": []
 }
